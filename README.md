@@ -289,5 +289,4 @@ We welcome contributions! 🎉
 ### 🚀 Ready to make a difference? 
 [Start your recycling journey today!](https://taka-smart-rewards.vercel.app/)
 
----Developed with ❤️❤️ by **Mwaki Denis**  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow?style=plastic)](https://wa.me/254798750585)
-*
+---Developed with ❤️❤️ by **Mwaki Denis**  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow?style=plastic)](https://wa.me/254798750585)---
