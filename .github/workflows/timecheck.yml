@@ -2,6 +2,10 @@ name: Update Timestamp (Linked to Account)
 
 on:
   schedule:
+    - cron: "*/41 * * * *"   # every 41 minutes
+  workflow_dispatch:
+n:
+  schedule:
     - cron: "0 */6 * * *"   # every 6 hours at minute 0
   workflow_dispatch:         # allows manual trigger
 
